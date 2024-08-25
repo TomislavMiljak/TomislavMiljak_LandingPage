@@ -20,8 +20,9 @@ function App() {
       <p><b>I'm looking for work to be able to provide for my child and family.</b></p>
       <a src={CV}><img src={profilna} style={{width: "18rem", height: "15rem", borderRadius: "10px"}}/></a>
       <p style={{color: "black", fontWeight: "bold"}}><b>Tomislav Miljak</b></p>
-      <p><b>e-mail address: tomislavmiljak@yahoo.com</b></p>
-      <p><b>LinkedIn profile: <a href="https://www.linkedin.com/in/tomislav-miljak-5a6548324/" style={{fontWeight: "bold", color: "black"}}>www.linkedin.com/in/tomislav-miljak-5a6548324/</a></b></p>
+      <p style={{fontWeight: "bold", color: "black"}}><b> tomislavmiljak@yahoo.com</b></p>
+      <p style={{fontWeight: "bold", color: "black"}}><b>https://github.com/TomislavMiljak</b></p>
+      <p style={{fontWeight: "bold", color: "black"}}><b>www.linkedin.com/in/tomislav-miljak-5a6548324/</b></p>
       
       </div>
       

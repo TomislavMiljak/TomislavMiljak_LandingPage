@@ -64,11 +64,11 @@ body {
 .text-container .one {
   display: flex;
   flex-direction: column;
-  padding-top: 4rem;
+  padding-top: 6rem;
   
 }
 .text-container .two {
-  padding-top: 4rem;
+  padding-top: 6rem;
 }
 .text-container .three {
   display: flex;
